@@ -10,32 +10,32 @@ const TEAM_MEMBERS = [
     name: 'Hudson Furbank',
     role: 'Project Manager',
     blurb: 'Student at RMIT studying a Bachelor of Computer Science, majoring in cybersecurity.',
-    photoUrl: null,
+    photoUrl: '/team/Hudson.jpg',
 },
 {
     name: 'Jaidyn Dinh Nguyen',
     role: 'Business Analyst',
     blurb: 'Translates business needs into clear requirements that the whole team can act on.',
-    photoUrl: null,
+    photoUrl: '/team/jaidyn.jpg',
 },
 {
     name: 'Aziz Ahmadi',
     role: 'UX Designer',
     blurb: 'Crafts intuitive interfaces grounded in user research and rigorous usability testing.',
-    photoUrl: null,
+    photoUrl: '/team/aziz.jpg',
 },
 {
     name: 'Liangjie Cheng',
     role: 'Developer',
     blurb: 'Student Bachelor of Information Technology Minor Cybersecurity Student of RMIT.',
-    photoUrl: null,
+    photoUrl: '/team/liangjie.jpg',
 },
 {
     name: 'Daniel Williams',
     role: 'Developer',
     blurb:
         "I'm a motivated IT professional and cybersecurity student who enjoys solving technical problems, learning new technologies, and building things that work.",
-    photoUrl: null,
+    photoUrl: '/team/daniel.jpg',
 },
 {
     name: 'Bartholomew-James Alexander Konstantinopoulos-Whitington',
