@@ -10,7 +10,7 @@ const TEAM_MEMBERS = [
     name: 'Hudson Furbank',
     role: 'Project Manager',
     blurb: 'Student at RMIT studying a Bachelor of Computer Science, majoring in cybersecurity.',
-    photoUrl: '/team/Hudson.jpg',
+    photoUrl: '/team/hudson.jpg',
 },
 {
     name: 'Jaidyn Dinh Nguyen',
