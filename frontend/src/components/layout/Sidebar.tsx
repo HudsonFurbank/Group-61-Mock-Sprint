@@ -1,11 +1,13 @@
 import Link from 'next/link'
 import { LayoutDashboard, StickyNote, User, Settings } from 'lucide-react'
+import TeamPage from '@/app/(dashboard)/team/page'
 
 const navItems = [
   { href: '/dashboard', label: 'Dashboard', icon: LayoutDashboard },
   { href: '/notes', label: 'Notes', icon: StickyNote },
   { href: '/profile', label: 'Profile', icon: User },
   { href: '/settings', label: 'Settings', icon: Settings },
+  { href: '/team', label: 'Team', icon: User },
 ]
 
 export function Sidebar() {
