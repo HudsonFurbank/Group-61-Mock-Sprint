@@ -37,13 +37,6 @@ const TEAM_MEMBERS = [
         "I'm a motivated IT professional and cybersecurity student who enjoys solving technical problems, learning new technologies, and building things that work.",
     photoUrl: '/team/daniel.jpg',
 },
-{
-    name: 'Bartholomew-James Alexander Konstantinopoulos-Whitington',
-    role: 'Senior Principal Distinguished Staff Engineering Manager',
-    blurb:
-        'This is a deliberately very long blurb designed to test whether the four-line clamp and ellipsis truncation actually works as intended when someone writes way more than four lines worth of text about themselves and their role on the team.',
-    photoUrl: null,
-},
 ]
 
 export default function TeamPage() {
